@@ -1,0 +1,7 @@
+# Welcome robot!
+# How are you?
+# This is robots.txt for http://e.n-wisdom.com
+# Version 1.0 2006-07-13
+
+User-agent: *
+Disallow: /
